@@ -1,0 +1,18 @@
+batch: 8
+names:
+- battery
+- Biological
+- brown-glass
+- cardboard
+- clothes
+- green-glass
+- metal
+- paper
+- plastic
+- shoes
+- white-glass
+nc: 11
+train: ./images/train
+train_labels: ./labels/train
+val: ./images/valid
+val_labels: ./labels/valid
