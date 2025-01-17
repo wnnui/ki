@@ -1,7 +1,12 @@
 task: detect
 mode: train
+<<<<<<< HEAD
 model: yolov8l.pt
 data: c:\Users\tonik\ki\dataset_project\annotations.yaml
+=======
+model: yolov8n.pt
+data: c:\Users\thore\Documents\GitHub\ki\dataset_project\annotations.yaml
+>>>>>>> 71a88705978ff73a4185c1444ff23f4b4a2b7a42
 epochs: 1
 time: null
 patience: 100
