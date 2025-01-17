@@ -1,6 +1,6 @@
 task: detect
 mode: train
-model: yolov8n.pt
+model: yolov8l.pt
 data: c:\Users\thore\Documents\GitHub\ki\dataset_project\annotations.yaml
 epochs: 1
 time: null
