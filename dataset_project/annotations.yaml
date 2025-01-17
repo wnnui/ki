@@ -1,7 +1,6 @@
 batch: 8
 names:
 - battery
-- Battery
 - Biological
 - brown-glass
 - cardboard
@@ -12,7 +11,7 @@ names:
 - plastic
 - shoes
 - white-glass
-nc: 12
+nc: 11
 train: ./images/train
 train_labels: ./labels/train
 val: ./images/valid
